@@ -2,6 +2,8 @@
 
 Learn PyTorch by building everything from Linear Regression to Transformers — 8 self-contained scripts, each under 100 lines of model code.
 
+> **Blog Post**: [PyTorch Neural Network Guide: 5 Mistakes That Break Training](https://tildalice.io/pytorch-neural-network-training-mistakes/)
+
 ## Models
 
 | # | Model | Dataset | Result |
